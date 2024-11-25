@@ -1,1 +1,1 @@
-Моё резюме тут: [cv.md](https://azemcov.github.io/rsschool-cv/)
+Моё резюме: [cv.md](https://azemcov.github.io/rsschool-cv/)
